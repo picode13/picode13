@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Anup Chandak
-- 👀 I’m interested in Web Development in mern stack, App Development in Flutter, ml in python and dsa in cpp.
-- 🌱 I’m currently learning docker and some cloud and opensource.
-- 💞️ I’m looking to internship or collab or any project from which I can get real world experience in coding world.
-- 📫 How to reach me: My phone number is 7767906159. My college is IIT Kharagpur. 
+Hi 👋, I'm Anup Chandak
+A passionate fullstack web developer and machine learning enthusiastic
+coding
 
-<!---
-picode13/picode13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently working on crypto app
+
+🌱 I’m currently learning MERN Stack and Cloud Computing
+
+👯 I’m looking to collaborate on statistical arbitrage
+
+💬 Ask me about Docker AWS MERN Flutter Algorithms and Data Structures
+
+📫 How to reach me anupchandak322@gmail.com
+
+⚡ Fun fact I play guitar and football and love watching animes.
+
+Connect with me:
+anupchandak anupchandak
+
+Languages and Tools:
+android aws cplusplus dart docker express firebase flutter git graphql heroku javascript jenkins kubernetes linux mongodb mysql nodejs pandas postgresql postman python pytorch react reactnative tensorflow typescript xd
